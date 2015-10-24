@@ -1,0 +1,16 @@
+.btn {
+	background: none;
+	border-radius: 50px;
+	border: 2px dashed #000033;
+	color: #000033;
+	font-size: 45px;
+	height: 100px;
+	left: 50%;
+	margin-left: -50px; /* = -width / 2    */
+	margin-top: -50px;   /* = -height / 2   */
+	outline: none;
+	padding: 5px 20px;
+	position: fixed;
+	top: 50%;
+	width: 100px;
+}

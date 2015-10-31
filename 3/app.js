@@ -1,7 +1,5 @@
-(function () {
-	console.log('Challenge: Create a timer who stars in 10 and ends in 0');
-	console.log('Solution:');
-})();
+console.log('Challenge: Create a timer who stars in 10 and ends in 0');
+console.log('Solution:');
 
 (function () {
 	var interval;
